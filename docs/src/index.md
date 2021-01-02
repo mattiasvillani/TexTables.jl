@@ -35,7 +35,8 @@ It also provides constructors and methods to
 
 ## Installation
 
-TexTables is not yet registered, so it can be installed with the command
+TexTables is a registered Julia package, so it can be installed with the command
+
 ```julia
 Pkg.add("TexTables")
 ```
